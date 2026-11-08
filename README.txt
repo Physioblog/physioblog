@@ -1,21 +1,8 @@
-PHYSIOBLOG — PRIMA VERSIONE STATICA
-
-Contenuto:
-- Home
-- Archivio con 10 articoli e link agli originali Wix
-- Profilo
-- Contatti (segnaposto, nessun recapito inventato)
-- Bozza privacy
-- CSS responsive, senza librerie esterne
-
-IMPORTANTE:
-Questa è una prima base pubblicabile, NON ancora la migrazione integrale:
-i testi degli articoli sono ancora raggiunti tramite link al vecchio sito Wix.
-La pagina privacy è una bozza da completare.
-Non modificare i DNS e non disdire Wix finché:
-1) tutti i testi e le immagini degli articoli non sono trasferiti;
-2) contatti e dati del titolare non sono completati;
-3) il sito non è stato testato su Cloudflare Pages e sul dominio.
-
-Hosting previsto: Cloudflare Pages (piano gratuito).
-Il dominio resta su Register.it; si paga soltanto il suo rinnovo.
+PHYSIOBLOG — aggiornamento struttura sito
+Landing page separata dall'archivio Articoli.
+Pagine: Home, Articoli, Video, Profilo, Contatti, Privacy.
+Brand: verde #669999, nero carbone, bianco.
+Video YouTube incorporati in modalità privacy-enhanced.
+NOTA: articoli ancora collegati alle pagine originali Wix; i testi completi non sono stati incorporati.
+Privacy è una bozza. Verificare recapiti e completare informativa prima di considerare conclusa la migrazione.
+Caricare il CONTENUTO della cartella nella root del repository GitHub Physioblog/physioblog, sovrascrivendo i file omonimi.

@@ -1,62 +1,72 @@
 [
   {
-    "slug": "stagione-sportiva",
+    "slug": "come-pianificare-una-stagione-sportiva",
     "title": "Pianificare una stagione sportiva: come andare forte evitando l’overtraining",
-    "date": "11 gennaio 2021",
-    "original_url": "https://www.physioblog.it/post/come-pianificare-una-stagione-sportiva"
+    "date": "2021-01-11",
+    "category": "Sport",
+    "original": "https://www.physioblog.it/post/come-pianificare-una-stagione-sportiva"
   },
   {
-    "slug": "tendinopatia",
+    "slug": "tendinopatia-in-4-mosse",
     "title": "Vincere la tendinopatia in 4 semplici mosse",
-    "date": "15 dicembre 2020",
-    "original_url": "https://www.physioblog.it/post/tendinopatia-in-4-mosse"
+    "date": "2020-12-15",
+    "category": "Dolore e riabilitazione",
+    "original": "https://www.physioblog.it/post/tendinopatia-in-4-mosse"
   },
   {
-    "slug": "insufficienza-cardiaca",
+    "slug": "insufficienza-cardiaca-persone-cura",
     "title": "Insufficienza cardiaca: le persone come cura",
-    "date": "7 dicembre 2020",
-    "original_url": "https://www.physioblog.it/post/insufficienza-cardiaca-persone-cura"
+    "date": "2020-12-07",
+    "category": "Salute",
+    "original": "https://www.physioblog.it/post/insufficienza-cardiaca-persone-cura"
   },
   {
-    "slug": "disabilita",
+    "slug": "giornata-mondiale-persone-disabilita",
     "title": "Giornata Mondiale delle Persone con Disabilità",
-    "date": "Articolo originale",
-    "original_url": "https://www.physioblog.it/post/giornata-mondiale-persone-disabilit%C3%A0"
+    "date": "",
+    "category": "Salute",
+    "original": "https://www.physioblog.it/post/giornata-mondiale-persone-disabilita"
   },
   {
-    "slug": "hiv",
+    "slug": "hiv-curarsi-ora",
     "title": "HIV+: curarsi ora per non ammalarsi domani",
-    "date": "Articolo originale",
-    "original_url": "https://www.physioblog.it/post/hiv-curarsi-ora"
+    "date": "",
+    "category": "Salute",
+    "original": "https://www.physioblog.it/post/hiv-curarsi-ora"
   },
   {
-    "slug": "covid-fisioterapia",
+    "slug": "covid-sindemia-fisioterapia",
     "title": "Perché dal COVID-19 ci salverà la fisioterapia",
-    "date": "Articolo originale",
-    "original_url": "https://www.physioblog.it/post/covid-sindemia-fisioterapia"
+    "date": "",
+    "category": "Salute",
+    "original": "https://www.physioblog.it/post/covid-sindemia-fisioterapia"
   },
   {
-    "slug": "epicondilite",
+    "slug": "epicondilite-cosa-fare",
     "title": "Epicondilite: cosa bisogna (non) fare?",
-    "date": "Articolo originale",
-    "original_url": "https://www.physioblog.it/post/epicondilite-cosa-fare"
+    "date": "",
+    "category": "Dolore e riabilitazione",
+    "original": "https://www.physioblog.it/post/epicondilite-cosa-fare"
   },
   {
-    "slug": "mal-di-schiena",
+    "slug": "mal-di-schiena-quattro-segreti",
     "title": "Mal di schiena: i quattro segreti per batterlo",
-    "date": "Articolo originale",
-    "original_url": "https://www.physioblog.it/post/mal-di-schiena-quattro-segreti"
+    "date": "",
+    "category": "Dolore e riabilitazione",
+    "original": "https://www.physioblog.it/post/mal-di-schiena-quattro-segreti"
   },
   {
-    "slug": "comandamenti",
+    "slug": "i-comandamenti-del-fisioterapista-moderno",
     "title": "I Comandamenti del fisioterapista moderno",
-    "date": "22 settembre 2020",
-    "original_url": "https://www.physioblog.it/post/i-comandamenti-del-fisioterapista-moderno"
+    "date": "2020-09-22",
+    "category": "Professione",
+    "original": "https://www.physioblog.it/post/i-comandamenti-del-fisioterapista-moderno"
   },
   {
-    "slug": "sclerosi-multipla",
+    "slug": "sclerosi-multipla-riduzione-sedentarieta",
     "title": "Sclerosi multipla: la gestione dei sintomi attraverso la riduzione della sedentarietà",
-    "date": "15 settembre 2020",
-    "original_url": "https://www.physioblog.it/post/sclerosi-multipla-riduzione-sedentariet%C3%A0"
+    "date": "2020-09-15",
+    "category": "Salute",
+    "original": "https://www.physioblog.it/post/sclerosi-multipla-riduzione-sedentarieta"
   }
 ]
