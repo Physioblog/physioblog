@@ -2,71 +2,81 @@
   {
     "slug": "come-pianificare-una-stagione-sportiva",
     "title": "Pianificare una stagione sportiva: come andare forte evitando l’overtraining",
-    "date": "2021-01-11",
     "category": "Sport",
-    "original": "https://www.physioblog.it/post/come-pianificare-una-stagione-sportiva"
+    "date": "2021-01-11",
+    "description": "Periodizzazione, pianificazione dei carichi e recupero: una stagione sportiva efficace si costruisce distribuendo nel tempo preparazione, sviluppo, picco, competizioni e transizione.",
+    "url": "come-pianificare-una-stagione-sportiva.html"
   },
   {
     "slug": "tendinopatia-in-4-mosse",
     "title": "Vincere la tendinopatia in 4 semplici mosse",
-    "date": "2020-12-15",
     "category": "Dolore e riabilitazione",
-    "original": "https://www.physioblog.it/post/tendinopatia-in-4-mosse"
+    "date": "2020-12-15",
+    "description": "Un approccio attivo alla tendinopatia: comprendere il problema, ridurre la passività e costruire capacità attraverso il carico progressivo.",
+    "url": "tendinopatia-in-4-mosse.html"
   },
   {
     "slug": "insufficienza-cardiaca-persone-cura",
     "title": "Insufficienza cardiaca: le persone come cura",
-    "date": "2020-12-07",
     "category": "Salute",
-    "original": "https://www.physioblog.it/post/insufficienza-cardiaca-persone-cura"
+    "date": "2020-12-07",
+    "description": "Il ruolo delle relazioni, dell’aderenza e del supporto nella gestione delle persone con insufficienza cardiaca.",
+    "url": "insufficienza-cardiaca-persone-cura.html"
   },
   {
     "slug": "giornata-mondiale-persone-disabilita",
-    "title": "Giornata Mondiale delle Persone con Disabilità",
-    "date": "",
+    "title": "Giornata Mondiale delle Persone con Disabilità: qual è la situazione?",
     "category": "Salute",
-    "original": "https://www.physioblog.it/post/giornata-mondiale-persone-disabilita"
+    "date": "",
+    "description": "Disabilità, inclusione e accesso alla riabilitazione: uno sguardo ai contesti sociali, educativi, lavorativi e sanitari.",
+    "url": "giornata-mondiale-persone-disabilita.html"
   },
   {
     "slug": "hiv-curarsi-ora",
     "title": "HIV+: curarsi ora per non ammalarsi domani",
-    "date": "",
     "category": "Salute",
-    "original": "https://www.physioblog.it/post/hiv-curarsi-ora"
+    "date": "",
+    "description": "Trattamento precoce, invecchiamento e comorbilità: il ruolo di una presa in carico multidisciplinare e dell’attività fisica.",
+    "url": "hiv-curarsi-ora.html"
   },
   {
     "slug": "covid-sindemia-fisioterapia",
     "title": "Perché dal COVID-19 ci salverà la fisioterapia",
-    "date": "",
     "category": "Salute",
-    "original": "https://www.physioblog.it/post/covid-sindemia-fisioterapia"
+    "date": "",
+    "description": "Il concetto di sindemia, le condizioni croniche e le disuguaglianze sociali nella lettura della pandemia e del ruolo della riabilitazione.",
+    "url": "covid-sindemia-fisioterapia.html"
   },
   {
     "slug": "epicondilite-cosa-fare",
     "title": "Epicondilite: cosa bisogna (non) fare?",
-    "date": "",
     "category": "Dolore e riabilitazione",
-    "original": "https://www.physioblog.it/post/epicondilite-cosa-fare"
+    "date": "",
+    "description": "Il gomito del tennista riguarda soprattutto i lavoratori manuali; esercizio progressivo ed educazione sono centrali nella gestione.",
+    "url": "epicondilite-cosa-fare.html"
   },
   {
     "slug": "mal-di-schiena-quattro-segreti",
     "title": "Mal di schiena: i quattro segreti per batterlo",
-    "date": "",
     "category": "Dolore e riabilitazione",
-    "original": "https://www.physioblog.it/post/mal-di-schiena-quattro-segreti"
+    "date": "",
+    "description": "Dolore, imaging, attività fisica e fattori psicosociali: quattro messaggi per comprendere meglio la lombalgia.",
+    "url": "mal-di-schiena-quattro-segreti.html"
   },
   {
     "slug": "i-comandamenti-del-fisioterapista-moderno",
     "title": "I Comandamenti del fisioterapista moderno",
-    "date": "2020-09-22",
     "category": "Professione",
-    "original": "https://www.physioblog.it/post/i-comandamenti-del-fisioterapista-moderno"
+    "date": "2020-09-22",
+    "description": "Undici principi per una fisioterapia muscoloscheletrica centrata sulla persona e basata sulle evidenze.",
+    "url": "i-comandamenti-del-fisioterapista-moderno.html"
   },
   {
     "slug": "sclerosi-multipla-riduzione-sedentarieta",
     "title": "Sclerosi multipla: la gestione dei sintomi attraverso la riduzione della sedentarietà",
-    "date": "2020-09-15",
     "category": "Salute",
-    "original": "https://www.physioblog.it/post/sclerosi-multipla-riduzione-sedentarieta"
+    "date": "2020-09-15",
+    "description": "Il protocollo Sit-less and Move-more propone di interrompere la sedentarietà e aumentare il movimento quotidiano nelle persone con sclerosi multipla.",
+    "url": "sclerosi-multipla-riduzione-sedentarieta.html"
   }
 ]
